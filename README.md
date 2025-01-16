@@ -1,7 +1,5 @@
 # **High Availability and Disaster Recovery in E-Commerce Using S3 Replication**
 
-### Project Name: **E-Commerce S3 Replication for Global Data Availability**
-
 ### Domain: **E-Commerce**
 
 ### Challenge:
